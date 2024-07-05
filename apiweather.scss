@@ -1,0 +1,16 @@
+.general{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.buscador{
+  width: 150px;
+  display: flex;
+}
+
+.weatherBody{
+  display: flex;
+  gap: 15px;
+}
